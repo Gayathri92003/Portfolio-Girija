@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Girija/static/css/main.72f39b1b.css",
-    "main.js": "/Portfolio-Girija/static/js/main.531ff94b.js",
+    "main.js": "/Portfolio-Girija/static/js/main.f09e3fb7.js",
     "static/media/water.png": "/Portfolio-Girija/static/media/water.fcab04a9424fdf4dd78a.png",
     "static/media/aiimage.png": "/Portfolio-Girija/static/media/aiimage.1b666b612d6be7dcd25e.png",
     "static/media/resume girija.pdf": "/Portfolio-Girija/static/media/resume girija.5920f24f1c3ddb9b78e9.pdf",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/Portfolio-Girija/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-Girija/index.html",
     "main.72f39b1b.css.map": "/Portfolio-Girija/static/css/main.72f39b1b.css.map",
-    "main.531ff94b.js.map": "/Portfolio-Girija/static/js/main.531ff94b.js.map"
+    "main.f09e3fb7.js.map": "/Portfolio-Girija/static/js/main.f09e3fb7.js.map"
   },
   "entrypoints": [
     "static/css/main.72f39b1b.css",
-    "static/js/main.531ff94b.js"
+    "static/js/main.f09e3fb7.js"
   ]
 }
